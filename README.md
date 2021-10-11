@@ -1,4 +1,4 @@
-Phaser Demo Game - Crazy Birds
+Crazy Birds
 ====================================================
 Description
 --------
